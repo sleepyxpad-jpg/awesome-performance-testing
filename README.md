@@ -4,6 +4,8 @@ A collection of awesome performance testing resources
 
 * [Software performance testing](http://en.wikipedia.org/wiki/Software_performance_testing) - In software engineering, performance testing is in general testing performed to determine how a system performs in terms of responsiveness and stability under a particular workload. It can also serve to investigate, measure, validate or verify other quality attributes of the system, such as scalability, reliability and resource usage.
 
+* [PageGuard](https://pageguard.qiudeqiu.workers.dev) - Free all-in-one website health scanner powered by Cloudflare Workers AI. Scans for performance metrics, SEO optimization, accessibility compliance, and best practices. No signup required, instant AI-powered reports.
+
 * [Tsung](http://tsung.erlang-projects.org/) - is an open-source multi-protocol distributed load testing tool. It can be used to stress HTTP, WebDAV, SOAP, PostgreSQL, MySQL, LDAP and Jabber/XMPP servers.
 * [Apache Jmeter](http://jmeter.apache.org/) - is an Apache project that can be used as a load testing tool for analyzing and measuring the performance of a variety of services, with a focus on web applications.
 * [Yandex.Tank](https://github.com/yandex/yandex-tank) - is an extendable open source load testing tool for advanced linux users which is especially good as a part of automated load testing suit.
